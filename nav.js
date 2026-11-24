@@ -1,6 +1,7 @@
 // Add a link by adding one line here.
 var NAV_LINKS = [
   { label: "TBR", href: "https://tbr.tefleming.com" },
+  { label: "Grocery List", href: "https://list.tefleming.com" },
 ];
 
 (function () {
